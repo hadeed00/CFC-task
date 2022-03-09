@@ -1,0 +1,7 @@
+REQUIREMENTS:
+
+To simplify everything I have coded my solution in a Python notebook (making it easier to show, install and import libraries). 
+To run this task please upload the Python notebook in Google Colab ( https://colab.research.google.com/ ) and run each code cell (play button next to each cell).
+
+The created output files will be available on the left hand side under the files tab (Note: There is a refresh button at the top of the files tab incase the files dont show).
+From here, the files can be downloaded or viewed online.
